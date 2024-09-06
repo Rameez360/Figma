@@ -25,4 +25,5 @@ Check out the attached image and video showcasing the design:
 
 - **Image**: A screenshot of the Xbox Controller Buy Page and Doughnut Flavors Display Page.
 - **Video**: A walkthrough video demonstrating the dynamic scrolling feature and interaction on both pages.
-
+- 
+![Screenshot 2024-09-06 162052](https://github.com/user-attachments/assets/836284df-b3b6-4556-a711-b3153999ab3d)
