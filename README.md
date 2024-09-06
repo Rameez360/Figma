@@ -1,4 +1,4 @@
-# Figma 
+# Figma Design
 # Figma Design Project: Xbox Controller Buy Page & Doughnut Flavors Display
 1. **Xbox Controller Buy Page**: A detailed page for displaying Xbox console controllers with their description, price, and color options.
 2. **Doughnut Flavors Display Page**: A dynamic, scrollable page showcasing various doughnut flavors.
