@@ -27,3 +27,4 @@ Check out the attached image and video showcasing the design:
 - **Video**: A walkthrough video demonstrating the dynamic scrolling feature and interaction on both pages.
 - 
 ![Screenshot 2024-09-06 162052](https://github.com/user-attachments/assets/836284df-b3b6-4556-a711-b3153999ab3d)
+https://github.com/user-attachments/assets/45cfa5f1-33ad-4aae-858e-af2bbb4c2c22
